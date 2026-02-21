@@ -17,6 +17,7 @@ body{
 }
 @media screen and (max-width: 360px) {
     #time-container{
-        font-size: 75px;
+        font-size: 40px;
     }
+
 }
