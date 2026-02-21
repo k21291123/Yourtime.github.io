@@ -14,5 +14,9 @@ body{
 }
 #DayIntervalText{
     color: #ffffff;
-    font-size: 60px;
+}
+@media screen and (max-width: 360px) {
+    #time-container{
+        font-size: 75px;
+    }
 }
